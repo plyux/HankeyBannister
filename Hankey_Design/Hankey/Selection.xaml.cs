@@ -23,5 +23,10 @@ namespace Hankey
         {
             InitializeComponent();
         }
+
+        private void textBox1_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
+        }
     }
 }
