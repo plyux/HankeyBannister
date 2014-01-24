@@ -13,3 +13,5 @@ E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Hankey.Prop
 E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Hankey.csproj.GenerateResource.Cache
 E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Hankey.exe
 E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Hankey.pdb
+E:\azazaz\HankeyBannister\Hankey_Design\Hankey\obj\x86\Debug\Hankey.exe
+E:\azazaz\HankeyBannister\Hankey_Design\Hankey\obj\x86\Debug\Hankey.pdb
