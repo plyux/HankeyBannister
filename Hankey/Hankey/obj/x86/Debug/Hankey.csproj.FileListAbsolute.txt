@@ -1,0 +1,17 @@
+E:\Новая папка\HankeyBannister\Hankey\Hankey\bin\Debug\Hankey.exe
+E:\Новая папка\HankeyBannister\Hankey\Hankey\bin\Debug\Hankey.pdb
+E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\MainPage.baml
+E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\MainWindow.baml
+E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Selection.baml
+E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\MainPage.g.cs
+E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\MainWindow.g.cs
+E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Selection.g.cs
+E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\App.g.cs
+E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Hankey_MarkupCompile.cache
+E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Hankey.g.resources
+E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Hankey.Properties.Resources.resources
+E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Hankey.csproj.GenerateResource.Cache
+E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Hankey.exe
+E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Hankey.pdb
+E:\azazaz\HankeyBannister\Hankey_Design\Hankey\obj\x86\Debug\Hankey.exe
+E:\azazaz\HankeyBannister\Hankey_Design\Hankey\obj\x86\Debug\Hankey.pdb

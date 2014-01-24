@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Group\Hankey\Hankey\obj\x86\Debug\
+E:\azazaz\HankeyBannister\Hankey_Design\Hankey\obj\x86\Debug\
 Hankey
 none
 false
 DEBUG;TRACE
-D:\Group\Hankey\Hankey\App.xaml
-11151548125
+E:\azazaz\HankeyBannister\Hankey_Design\Hankey\App.xaml
+5244511248
 
-6163476236
+102095334210
 12-1381780322
-MainWindow.xaml;
+Currency.xaml;MainPage.xaml;MainWindow.xaml;Selection.xaml;Story.xaml;
 
 False
 
