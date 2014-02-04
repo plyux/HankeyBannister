@@ -15,3 +15,22 @@ E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Hankey.exe
 E:\Новая папка\HankeyBannister\Hankey\Hankey\obj\x86\Debug\Hankey.pdb
 E:\azazaz\HankeyBannister\Hankey_Design\Hankey\obj\x86\Debug\Hankey.exe
 E:\azazaz\HankeyBannister\Hankey_Design\Hankey\obj\x86\Debug\Hankey.pdb
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\Hankey.exe
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\Hankey.pdb
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\Currency.baml
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\MainPage.baml
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\MainWindow.baml
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\Selection.baml
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\Story.baml
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\Currency.g.cs
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\MainPage.g.cs
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\Selection.g.cs
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\Story.g.cs
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\App.g.cs
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\Hankey_MarkupCompile.cache
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\Hankey.g.resources
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\Hankey.Properties.Resources.resources
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\obj\x86\Debug\Hankey.csproj.GenerateResource.Cache
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\bin\Debug\Hankey.exe
+C:\Users\lenin\Desktop\HankeyBannister-Designer\Hankey\Hankey\bin\Debug\Hankey.pdb

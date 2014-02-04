@@ -11,6 +11,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.IO;
 
 namespace Hankey
 {
@@ -28,5 +29,26 @@ namespace Hankey
         {
 
         }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            string p1 = passwordBox1.Password;
+            string p2 = passwordBox2.Password;
+            if (p1 != p2)
+                MessageBox.Show("Неспівпадіння паролів", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            else
+            {
+                StreamWriter sw = new StreamWriter("1.txt");
+                sw.WriteLine(textBox1.Text);
+              
+                sw.WriteLine(passwordBox1.Password.ToString());
+                sw.WriteLine(comboBox1.SelectedIndex);
+                sw.Close();
+                NavigationService ns;
+                ns = NavigationService.GetNavigationService(this);
+                MainPage nextPage = new MainPage();
+                ns.Navigate(nextPage);
+               }
+            }
     }
 }
