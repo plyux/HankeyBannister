@@ -23,5 +23,10 @@ namespace Hankey
         {
             InitializeComponent();
         }
+
+        private void button4_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("sadasd");
+        }
     }
 }

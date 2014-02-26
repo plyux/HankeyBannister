@@ -34,5 +34,6 @@
         <TextBox Background="#FFF2AB73" Height="23" HorizontalAlignment="Left" Margin="202,131,0,0" Name="textBox2" VerticalAlignment="Top" Width="166" />
         <TextBox Background="#FFF2AB73" Height="23" HorizontalAlignment="Left" Margin="202,158,0,0" Name="textBox3" VerticalAlignment="Top" Width="166" />
         <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="294,187,0,0" Name="button1" VerticalAlignment="Top" Width="75" />
+        <Button Content="Button" Height="24" HorizontalAlignment="Left" Margin="356,12,0,0" Name="button2" VerticalAlignment="Top" Width="35" Click="button2_Click" />
     </Grid>
 </Page>
