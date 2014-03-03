@@ -154,6 +154,12 @@ namespace Hankey {
             return;
             case 2:
             this.button1 = ((System.Windows.Controls.Button)(target));
+            
+            #line 15 "..\..\..\MainPage.xaml"
+            this.button1.Click += new System.Windows.RoutedEventHandler(this.button1_Click);
+            
+            #line default
+            #line hidden
             return;
             case 3:
             this.label1 = ((System.Windows.Controls.Label)(target));

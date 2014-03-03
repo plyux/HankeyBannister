@@ -54,3 +54,5 @@ C:\Users\Aleksandr\Desktop\HankeyBannister-Designer\Hankey_Design\Hankey\obj\x86
 C:\Users\Aleksandr\Desktop\HankeyBannister-Designer\Hankey_Design\Hankey\obj\x86\Debug\Hankey.g.resources
 C:\Users\Aleksandr\Desktop\HankeyBannister-Designer\Hankey_Design\Hankey\obj\x86\Debug\Hankey.Properties.Resources.resources
 C:\Users\Aleksandr\Desktop\HankeyBannister-Designer\Hankey_Design\Hankey\obj\x86\Debug\Hankey.csproj.GenerateResource.Cache
+D:\ГДК\HankeyBannister\HankeyBannister\HankeyBannister-Designer\Hankey_Design\Hankey\obj\x86\Debug\Hankey.exe
+D:\ГДК\HankeyBannister\HankeyBannister\HankeyBannister-Designer\Hankey_Design\Hankey\obj\x86\Debug\Hankey.pdb
