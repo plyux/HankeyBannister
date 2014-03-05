@@ -178,6 +178,12 @@ namespace Hankey {
             return;
             case 10:
             this.button1 = ((System.Windows.Controls.Button)(target));
+            
+            #line 36 "..\..\..\Selection.xaml"
+            this.button1.Click += new System.Windows.RoutedEventHandler(this.button1_Click);
+            
+            #line default
+            #line hidden
             return;
             }
             this._contentLoaded = true;
